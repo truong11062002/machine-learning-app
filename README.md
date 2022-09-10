@@ -18,15 +18,13 @@ Requirements
 
 ## Image Classification
 
-If you are a total beginner to this, start here!
-
-1. Visit hackmd.io
-2. Click "Sign in"
-3. Choose a way to sign in
-4. Start writing note!
+Describe detail (updatinggg)
 
 ## Object Detection
 
+Describe detail (updatinggg)
+
+Describe detail
 Documention
 ---
 
@@ -34,7 +32,7 @@ Documention
 
 * ### Yolov7
 * ### MobileNetV3Small
-* Udatinggg...
+* Updatinggg...
 
 References
 ---
